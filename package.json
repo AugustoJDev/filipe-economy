@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "canvacord": "^5.4.8",
+    "discord.js": "^14.7.1",
+    "firebase": "^8.6.4",
+    "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1"
+  }
+}
